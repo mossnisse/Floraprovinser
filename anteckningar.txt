@@ -1,0 +1,193 @@
+﻿Landskapsgränser 2022-09-07
+Filen använder Sweref99TM
+Norrbotten – Finnland
+            Ok Följer älven, många segment.
+Norrbotten – Torne lappmark
+            Lantmäteriets nya gräns går runt lilla sjön Ollikainen. Jag skippar den kroken. Häradskartans gräns går rakt så jag följer den. Korrigerat så gränsen följer vägkartans landskapsgräns inte Översiktskartan.
+Norrbotten – Lule lappmark
+            OK stämmer med häradskartan
+Norrbotten – Pite lappmark
+	OK
+Norrbotten – Västerbotten
+            Drar ut den längre ut i bottenviken, samma som översiktskartan och Häradskartan. Det är en ny gräns så borde vara OK. Dellen av Västerbotten som ligger i Norrbottens län har mera informellt kallats Norrbotten landskap.
+Norrbotten-Bottenviken
+            Flyttar ut gränsen till Sjöterritoriets gräns i havet enligt topowebkartan
+Torne lappmark – Riksgränsen
+            OK
+Torne lappmark – Lule lappmark
+            OK följer kommungränsen
+Lule lappmark – Riksgränsen
+	OK
+Lule lappmark – Pite lappmark
+	OK Följer kommungränsen
+Pite lappmark – Riksgränsen
+	OK
+Pite lappmark – Lycksele lappmark
+	OK följer kommungränsen
+Pite lappmark – Västerbotten
+	Gränsen går runt Gallejaur, ska den göra det? Häradskartan så går gränsen rakt genom byn. Jag följer häradskartans gräns
+            Jag följer inte den lilla kroken öst Glommersträsk som länsgränsen och lantmäteriets nya landskapsgräns följer. Jag följer Häradskartans gräns
+Västerbotten – Lycksele lappmark
+            Finns inte på häradskartan följer Lantmäteriets landskapsgräns
+Västerbotten – Ångermanland
+Följer Gudruns gräns. Norstedt, G. & Norstedt, S. 2007. Landskapsgränsen mellan Ångermanland & åsele lappmark. Sen drar jag ut gränsen liknande lantmäteriets ut i havet.
+Västerbotten – Bottenviken
+            Drar ut gränsen till Sjöterritoriets gräns i havet enligt topowebkartan
+Ångermanland-Bottenhavet
+            Drar ut gränsen till Sjöterritoriets gräns i havet enligt topowebkartan
+Ångermanland-Jämtland
+	Det verkar vara förvirring kring gränsen runt Tåsjö socken. Rotnäset ligger i Jämtlands län enligt lantmäteriets gräns, Karta från 1906 (Lantmäteriemyndhetens arkiv Laga skifte 23-TÅS-212) så ligger Rotnäset i Westernorrlands län ... men nu ligger byn bara in i landskapet jämtland utan ochså i Jämtlands län. Det verkar vara större enighet i gränsen länger SÖ. Men tex Björkhöjden ligger I jämtland & Västernorrlands län. Karta Lantmäterimyndighetens arkiv 23-TÅS-62 avvitrring 1843. Så går spetsen av ångermanland vid Norråker som på Lantmäteriets landskapsgräns. Altså Rotnäset i Jämtland.
+Jag följer Råmärken/gränsen som fastställdes  1768 -1771 (Westin, 1935)
+1. Talleråsen (Ok ligger i alla fall nära) 2. Kälsjön OK, 3 Fulltufvan (Groviken?), 4 Kärnsjö hällan (Kängsjöhällen på Topowebkartan OK), 5 Granbergsskalet (Tun-Nilsberget?), 6 Riskammen (OK), 7 Storön (Punkten ligger lite norr om Storön), 8 Bergsjöholmen (Ok)
+Det är en bra bit kvar till Åsele lappmarksgränsen från Bergsjöholmen så där följer jag lantmäteriets gräns.
+Ångermanland – Medelpad
+	Inga förändringar i lantmäteriets gräns. Drar ut landskapsgränsen längs Härnösands kommungräns till Sjöterritoriets gräns. Det är mindre avviklser mot kommungränsen mellan Härnösand och Timrå.
+Landskapsgränsen fastställdes 1767 att från Pensåsen till Ångermanlands Billberg samt Talleråsen med en krök vid Kroksjöloken. (Westin, 1935)
+Rösen 1670
+1. Vita sanden eller stor och Lillskären (OK) 2 Skarpfjärden mellan Skarpudden och Ostholmarna (?), 3. Svartberget (punkten ligger NV om svartberget), 4. Brusböleån mellan Storsjöns östra del och Åvikebukten (OK Norrån på Topowebkartan), 5. Klovvisten på näset mellan Storsjöns östra och västra del, bortsprängd vid järvägsbygget 1925.(ungefärlig punkt) 6. Gnistringsån (OK), 7. Kallbäcken (OK). 7.5 Stordalsberget (Finns bara i rörledinsbrevet från 1803)  8. Filemalen, berget norr om Nöttjärn (Felemala på Topowebkartan Men beskrivs ligga vid östra änden av lill-Roten i rörläggningsbrevet så borde vara Roteberget), 9. Penåsen vid Penåstjärn (Penåshöjden på Topowebkartan). 10. Billberget norr om byn Billen väster om Viksjön (OK) 11 Bjuggetjärn, möjligen identsik med Vällingsjön (Sätter den på vällingsjön)
+
+Följer röserna från 1670 så gott det går.
+
+Lycksele lappmark – Ångermanland
+	Lantmäterit och Gudrun är överens så jag följer det
+Åsele lappmark – Ångermanland
+	Lantmäteriet och Gudrun är överens så jag följer det. Länsgränsen tal lite turer runt Gåraträsksjön och Bellvik som inte finns på landskapsgränsen.
+Åsele lappmark –Jämtland
+	Inga förändringar i lantmäteriets gräns. Fäljer Slipsikån ner till Saxån och sedan saxån. Lillånäs ligger i Västerbottens län men I landskapet Jämtland. Karta (Historiska kartor, Lantmäterimyndighetens arkiv 24-DOR-DD34 från 1865 har titelnd Karta öfver Lillånäset uti Jemtlands län och Frostvikens socken. Så det borde vara en senare ändring av Länsgränsen och sockengränsen (Dorotea socken enligt RAÄ sockenkarta).
+Medelpad-Bottenhavet
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Medelpad-Jämtland
+		Lanmäteriets gräns har en liten korrigering N. Långliden. Där har den rätats ut lite och följer inte Länsgränsen. Jag följer lantmäteriets nya gräns. Lantmäteriets nya gräns går rakt mellan Malungen till Orreklinten så det är nog den som är korrekt.’
+Gustafsson, 1974 har en lång utläggning som alldrig kommer till punkt...
+Rörläggningsbrev
+1. Djuphottens åmynne (OK) 2. Torringgraven(Ytterturingen ?) 3.  Norrskallen (OK) 4. Örasjöholme (OK) 5. Flärktjärns Flygge (Flarktjärnfligget) 6. Djuptjärns Fligge (Djuptjärnsfligget) 7. Dyrsjöhälla (Norra stranden av Dysjön) 8. Altarsten (OK) 9. Torologseijde (Spetsen av Bastunäset) 10. Korstjärn (OK) 11 Storoxjöskalle (OK) 12 Lillossjöhälle (OK) 13. Tivsjö åminne (OK) 14. Kallkumlerå (Kallkummen OK) 15 Oppsjölide (OK) 16 Kråkstensjöholme (OK Stensjöhällan).
+Jämtland – Härjedalen
+	 Inga förändringar över Helagsfjället till Lunndörrsfjället. Sen har lantmäteriets ändrat gränsen så att Tossåsen & Arådalen hamnar i Härjedalen (gränsen ska gå till Hundsdörren enligt gränsen från 1799). 
+Lagstadgade gränsen från 1799 (Gustafsson, G. 1974) 1. Djuphottens åmynne OK, 2. Björnbäckens infall i Hottesån. OK. 3. Gubbmyrholmen. (troligen OK, ligger i alla fall på en myrholme i Gubbmyrdalen). 4. Frägneberget. (OK). 5. Knatten (OK Knippen på topowebkartan). 6. Risasten (i alla fall i närheten). 7. Älvtjärn. (Halvartjärnen på topowebkartan?) 8. Rödevårdsval. ? 9. Ridderskard ? 10 Havarn? 11. Älgsdal? 12 Hundshögern(OK) 13. Lundörrskalet (?Nära Lunndörrspasset) 14 Skarvdörren med riksröset nr 153 (OK)
+Jag korrigerar gränsen så den följer Lantmäteriets nya gräns. Tar bort de extra punkterna vid Ljungan och Glensjön som inte ska finnas på landskapsgränsen. Hittar inte igen ortnamnen för röserna mellan Hundshögen och Risasten så jag är osäker på den korrekta dragningen.
+Härjedalen – Medelpad
+	Inga förändringar över lantmäteriets gärnser. Föjer den moderna länsgränsen.
+Beslut 1768
+17. Kroktjärnrå. 18 Fagerflo källa (Fagflon på topowebkartan). 19. Stenbomyrrå, 20 Djuphottes åmynne (Djup-Horten på topowebkartan).
+
+
+Härjedalen-Hälsingland
+	Lantmäteriet har inte gjort några ändringar
+Härjedalen – Dalarna
+	Lantmäteriet har lagt till en extra punkt på Lösesvålen som ändrar gränsen marginelt.
+	Lantmäteriet har tagit bort en liten krok på gränsen vid Pörvallen  SW Fågelsjö som jag också tar bort. 
+
+Medelpad-Hälsingland
+	Lantmäteriet har gjort minder korrigeraingar runt Sjön Torringen. Moderna landskapsgränsen, Länsstyrelesens nya gräns och Generalstabskartan, alla skiljer sig lite åt. Sen så lägger jag gränsen längs länsgränsen ut till rikets Sjöterritoriets gräns.
+Beslut 1768
+1. Malungsflugg,  (OK) 2. Vrångtjärns kulle.(Målstakullen?)  3 Emmingsklovberget (Klövbergets naturreservat?) 4. Stakaberget (Stackberget på Topowebkartan), 5. Gissjöröret, 6. Gissjötjärnrå, 7. Korpåsen, 8. Nagg- eller Korsrå, 9. Fandelåsen. 10. Lindefallet.  11. Björsjötjärnrå, 12 Stakatjärnrå, 13 Ensjöåsen (punkten ligg vid Ensjödammen), 14. Storfloholmen (Ligger i all fall fid Storflon) 15 Mullberget (Väster-Mullberget?). 16 Röret vid sjön Enstern (Nu går gränsen en bit söder om sjön Enstern). 
+2. 
+Hälsingland – Dalarna
+	Lantmäteriet har inte gjort några ändringar på gränsen. OBS Hamra och Hamra nationalpark ligger i Dalarna även om de ligger i Los socken enligt RAÄ sockenkarta.
+Hälsingland-Bottenhavet
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Hälsingland – Gästrikland
+	Lantmäteriet har bara gjort minimala ändringar rung Klubbäcken. Den gammla gränsen följer gränsen på Generalstabskartan. Den nya saknar en brytpunkt NE Klubbäcken som också saknas på en geometriks avmätning 1707 (Historiska kartor Lantmäteristyrelesens arkiv, Ockelbo socken Klubbäcken nr 1-2). Så jag ändrar till Lantmäteriets nya gräns.
+Gästrikland-Östersjön
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Gästrikland –Dalarna
+	På lantmäteriets nya gräns finns en enklav runt Jonsbo vid Stesnhyttan. Länsgränsen har ändrats mellan Generalstaben och Topowebkartan. Jag följer gränsen på Generalstabskartan och antar att det bara har blivit fel på Lantmäteriets gräns. Så Jonsbo hamnar i Gävleborgs län och Landskapet Dalarna.
+Gästrikland – Uppland
+            Korrigerat gränsen så den går rakt över Söderfors och inte följer sockengränsen. Gränsen SE står att den följer Länsgränsen, den gör det dåligt så jag har korrigerat så den bättre följer Länsgränsen och gränsen på Häradskartan. Lantmäteriets gräns gör en runda kring Lagnön som inte finns på häradskartan där den i stället går rakt över ön. Jag föjer häradskartan. Söder Gysinge: Gör gränsen lite kringelikrokar och på Häradskartn finns mindre enklaver... Lantmäteriets gräns följer inte exakt. Det finns lite enklaver och strul på häradskartn på Tinäset det är inte med på Lantmäteriets gräns.
+            
+Dalarna- Västmanland
+Lantmäteriets landskapsgräns följer Länsgränsen på Översiktskartan, den är inte så exakt så jag redigrea så den bättre följer den riktiga länsgränsen som också stämmer bättre med häradskartan.
+	
+Dalarna – Värmland
+	Liljendal-Höksjön Bygget ligger i Dalarna enligt Lantmäteriets landskapsgräns för översiktskartan och Värmlands län. Även gränsen på Häradskartan så ligger de I värmland men det står Stora Kopparbergs län så jag följer lantmäteriets gräns.
+
+Västmanland – Uppland
+            Korrigerar gränsen så att den stämmer bättre med Lantmäteriets nya gräns och länsgränsen. Vet inte riktigt hur den ska gå. Landskapsgränsen går närmare Sala än vad Länsgränsen gör. Norrby – Kärrbäck ligger i Uppland, Västmanlands län. Landskapsgränsen följer typ Sagån.
+
+Västmanland – Södermanland
+	Flyttar gränsen lite så att hela Gisselholmen och Minsgundet hamnar i Väsmanland som på Häradskartan & Generalstaben.Och sen så gränsen går rak över Hästskär som på Häradskartan och Generalstaben. Sen till Fagerökumeln – Gimpelstenarna – Hatten – Södra udden ahv Måholmen. Reutersberg ligger i Södermanland enligt Lantmäteriets gräns men i Västmanland på Häradskartan. Flyttar gränsen så att den stämmer bättre med häradskartan än den moderna kommungränsen.
+Västmanland – Närke
+            Gränsen följer Arbogaån och Järleån, den är lite grov skulle kunna fixas bättre... Där landskapsgräns och Länsgräns ska följas åt så har jag korrigerat så den följer läns/kommungränsen bättre. Ramshyttan ligger i Västmanland och Örebro kommun.
+Västmanland – Värmland
+            Jag ignorerar enklaven runt Snöbergshyttan.
+            Korrigerar så när landskapsgränsen ska följa modern adm gräns den gör det bättre. Gränsen längs Tvärån lite grov...
+            
+Värmland – Närke
+            Justerar lite så att gränsen stämmer bättre med Häradskartan och moderna adm när de ska följas åt
+Värmland – Dalsland
+	Följer adm gränser i Vänerns justerar så gränsen bättre följer länsgränsen där den ska det. Bollsbyn ligger i   Värmlands län och Dalsland. Gränsen Stora Bör – Spjutjärnen (Råbergsröset) finns inte på Häradskartan? Är sydgränsen av värmland vid Ämmeskog?
+Dalsland – Norge
+	Justerar så att gränsen bättre följer riksrösen och landsgärnsen.
+Närke-Västergötland
+	Justerar gränsen så den bättre följer länsgränsen där den ska göra det. Sen går gränsen från gryten ner till Sågdammsån.
+Närke-Östergötland
+	Korrigerar så att gränsen bätter följer länsgränsen där den sak göra det.
+Närke-Södermanland
+	Galnetorp ligger i Närke och Södermanlands län. Den liggern i Närke på Häradskartan så det är nog någon senare ändring av gränsen.
+Södermanland – Östergötland
+	Korrigerar så att gärnsen bättre stämmer med länsgränsen när den ska göra det.
+
+            
+Uppland-Östersjön
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan. Lägger Almagrundet i Uppland men det finns ingen definierad gräns ute till havs.
+Uppland – Södermanland
+	Korrigerar gränsen så att den bättre följer länsgränsen där den ska göra det. Oknön ligger i Södermanlands län och Landskapet Uppland. Ön ligger i Uppland på Generalstabskartan så det måste vara någon senare ändring på länsgränsen. Furuholmen S. Bastlangö ligger i Södermanland enligt Lantm. Och Uppsala på Häradskartan och Generalstaben. Bockholmssätra på ligger typ i Uppland (Ekerö) På Generalstaben Och Häradskartan.
+Södermanland – Östersjön
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Södermanland – Östergötland
+	Korrigerar så att gränsen bätter följer landskapsgränsen där den ska det. Kvarsebo ligger i Södermanland enligt Lantmäteriets gammla gräns, men de har nu flyttat den till länsgränsen så att Kvarsebo hamnar i östergötland. Det står Vhristina sochn üthi Östergötland vid Kvarsbo på historisk karta (1679 avmätning Karsebo socken). Gränsen går också vid Nävsjön och Svartsjön på Historisk karta 1688 Geometrisk avmätning Tunabergs socken Åtorp nr1. Så jag ändrar så att Kvarsebo hamnar i Östergötland, Örshult ligger i ÖG på häradskartan. Moberg 2006 säger att Kvarsebo ligger i Östergötland men den exakta gränsen mellan nävesjön och Bråviken är osäker.
+Östergötland – Östersjön
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Östergötland – Småland
+	Grännäs? Jag justerar så Grännäs hamnar i småland som på Lantmäteriets nya gräns och Häradskartan. Långserum - Fröjerum S. Ysingen ligger i Östergötland enligt lantmäteriets gräns men i Småland på Häradskartan. Jag har ingen aning var gränsen ska gå?
+Lantmäteriet har ändrat gränsen vig Sundsjön-Blåborg, jag följer den nya dragningen. Efter Stora Gullringsvattnen stämmer gränsen igen med Häradskartan. Gränsen runt Tolången stämmer inte med häradskartan. Lantmäteriets nya gräns vid sjön spillen följer häradskartan medan den gaml den moderna länsgränsen så jag justerar till lantmäteritsnya gräns. Sjön Hjortnen – Grönsved m.m. Rumskulla socken) Ligger i Östergötland på Häradskartan. Öven skifteskartor m.m. för byarna så står det att de hör till Östergötland. men småland enligt lantmäteriets gräns. Smålands och Östergötlands flora följer också den moderna länsgränsen här. Jag tyrcker det är svårt att ignorera häradskartan och skifteskartor så jag flyttar landskapsgränsen till den gammla länsgränsen.
+Skruvhult ligger i Jönköpings län på Häradskartan och Storkifteskarta 1776 (Trörna socken Skuvhult nr 1-2. Det är troligare att landskapsgränsen ska gå vid länsgränsen från 1700 talet än den moderna gränsen så jag flyttar den. Knapplaön ligger i småland på häradskartan och ena generalstabskartan så jag flyttar gränsen så den hamnar där.
+Gränsen vid Västra änden av yxningen. Enligt historisk karta avmätning 1714 så går gränsen mellan Östergötland och Calmare län vid storön som på häradskartan så jag flyttar landskapsgränsen dit. Så Fröjerom och Långserum hamnar i Småland.
+
+Småland – Östersjön
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan.
+Dalsland – Västergötland
+	Lantmäteriet har tagit bort några krokar V. Om Vänersborg, den nya gränsen stämmer bättre med häradskartan så jag följer den.
+Dalsland – Bohuslän
+	Justerar så att gränsen bättre följer den moderna länsgränsen där den ska göra det. Häradskartans grän går lite annorlunda vid Vrångevattnet. Jag ändrar inte gränsen efter häradskartan.
+Bohuslän – Västergötland
+	Lantmäteriet har gjort en liten extra krok runt Surte-Bohus. Jag ignorerar den. Jag vet inte hur gränsen ska gå i Göteborg, följer lantmäteriet...
+Västergötland – Småland
+	Älgafakk ligger inte i VG på Häradskartan. Enligt storskifteskarta 1814 Ligger Älgafall i Jönköpings län. Jag följer länsgränsen från 1700 talet istället för den moderna.
+Västergötland - Halland
+Goltand	
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan. Det har alldlrig behövst någon landskapsgräns runt gotland.
+	
+Öland-Östersjön
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Bohuslän – Skagerrak
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Västergötland – Kattegatt
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Västergötland – Halland
+	Korigerat gränsen så att den stämmer bättre med länsgränsen när den ska göra det. Stämmer rätt så bra med gränsen på häradskartan.
+Halland – Småland
+	Korrigerar så att gränsen stämmer bättre efter länsgränsen när den ska göra det. Följer lantmäteriets nya gräns vid Rydöbruk. Det stämmer också bättre med häradskartan.
+Halland-Kattegatt
+	Drar ut gränsen Sjöterritoriets gräns i havet enligt topowebkartan
+Halland – Skåne
+	Justerat lite så att gränsen stämmer bättre med länsgränsen och det stämmer också bra med häradskartan.
+Skåne – Småland
+	Justerat lite så att gränsen stämmer bättre med länsgränsen och det stämmer också bra med häradskartan.
+	
+Blekinge-Småland
+            Gränsen följer ungefär länsgränsen(Topowebkartan) och Häradskartan. Det är små skillnader som inte är konsekventa
+Blekinge-Östersjön
+            Dragit ut gränsen till Sjöterritoriets gräns i havet enligt topowebkartan
+Skåne-Blekinge
+            Gränsen stämmer ungefär med häradskartan och länsgränsen. Korrigera?
+Skåne – Östersjön
+            Dragit ut gränsen till Sjöterritoriets gräns i havet enligt topowebkartan
+Refernser
+Norstedt, G. & Norstedt, S. 2007. Landskapsgränsen mellan Ångermanland & åsele lappmark
+Häradskartan:  https://kartbild.com/#9/64.9916/20.6845/0x10
+Lantmäteriets landskapsgräns för översiktskartan: https://www.lantmateriet.se/sv/geodata/vara-produkter/produktlista/oversiktskartan 
+Nedladdad 2022-09-05
+Gustafsson, G. 1974. Ångermanland, Medelpad och Jämtland. Riks-, läns och landskapsgränser i forna tider,
+Westin. J. 1935 Ångermanlands gränser. Svensk geografisk årsbok.
+Moberg, J. 2006. Landskapsgränsen mellan Södermanland och Östergötland. Sörmlandsbyggden.
